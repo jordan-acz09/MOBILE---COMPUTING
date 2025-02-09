@@ -1,0 +1,27 @@
+This Assignment assesses the following module Learning Outcomes (from Definitive Module Document): 
+
+Demonstrate knowledge and understanding of principles of mobile operation and usability.
+Demonstrate knowledge and understanding of development and evaluation practices in mobile development.
+
+Assignment Tasks: 
+
+This assignment should be an early prototype version of the final assignment.   Here is a link to that final assignment with its requirements.  That is to say, a very early mockup of at least three screens the app will contain.
+
+For this assignment, you are marked on two things: a basic sense of mobile UI and the potential for purposeful development of your app.  If your video and image submission for this assignment is a completed app, or a very nearly completed one, you run the risk that your final assignment will have a low score - because that app is marked according to the difference between it and this assignment and the level of development that has taken place between the two.  Therefore if this app is too far developed (in an assignment worth 25% of the total marks) you might find it hard to score highly in the final app (worth 65% of the toal marks).  
+
+Therefore it is the *potential* of the app and the idea, and its capacity for purposeful enhancement and improvement that is evaluated here. You will be marked on the level of foresight embodied in the mock up, which can   be annotated with comments or observations which might be in the form of text to appear in alert boxes.  You may also wish to include in your video ERDs or JSON snippets which present your current idea of the data structures involved. If you do so, however, be careful to arrange them to fit within a 9:16 ratio image (see below).
+
+If for  whatever reason you are progressing through the course at an accelerated rate, then make sure you do this assignment early into the course so that your app is at a sufficiently prototype (that is to say sketchy and incomplete) stage to qualify as a prototype app.
+
+Finally, you are to produce 3 still images of your app which will be used as a point of comparison for your final app
+
+ Submission Requirements:
+
+A expo.dev Snack URL - containing an app which has at least 3 screens which it is possible to navigate between.  
+The first screen must be a welcome page or splash screen for the app. 
+The second screen should be a mock up of typical content in the app (a list of items) 
+The third screen must be demonstrate a form through which extra content could be added. 
+No functionality beyond display should be added to the content of any of the screens.  The only functionality programmed within the prototype should be navigation between the 3 screens and possibly alert boxes to appear with information about anything on the screen.
+A < 3 minute video of the app in action (though it is given that this is a prototype) with commentary in your own voice  describing how you want the screens to appear when the app is fully realized and what functionality you hope to implement.  You may want to reference an entity relationship diagram or some json snippets to represent the data structures that will be used.
+3 specific still image screen captures of the three screens in the app.  These should be of the app in portrait mode (dimensions with an x y ratio of  9:16).  They should be just of the screen of the app, not of the code window in Expo.
+A zip file of the expo.dev code at the moment of submission
